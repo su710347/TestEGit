@@ -5,6 +5,5 @@ public class HelloEGit {
 		System.out.println("hello egit");
 		System.out.println("第二次修改");
 		
-		
 	}
 }
