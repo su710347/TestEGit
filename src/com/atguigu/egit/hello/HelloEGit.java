@@ -6,5 +6,6 @@ public class HelloEGit {
 		System.out.println("第二次修改");
 		System.out.println("第三次修改");
 		System.out.println("第四次修改在github上修改");
+		System.out.println("第五次修改，在本地修改的");
 	}
 }
